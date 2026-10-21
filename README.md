@@ -26,24 +26,38 @@ A collection of Python implementations exploring fundamental concepts and algori
 
 ## Getting Started
 
-Clone the repository:
+**Clone the repository:**
 
 ```bash
 git clone <repository-url>
 cd <repository-name>
 ```
 
-Install the required libraries:
+**Install the required libraries:**
 
 ```bash
 pip install numpy matplotlib gym tensorflow pygame
 ```
 
-Run an individual lab:
+**Running the Labs**
 
-```bash
-python <filename>.py
-```
+Most labs are provided as Jupyter notebooks (`.ipynb`).
+
+1. Install Jupyter Notebook:
+
+   ```bash
+   pip install notebook
+   ```
+
+2. Launch Jupyter Notebook:
+
+   ```bash
+   jupyter notebook
+   ```
+
+3. Open the desired `.ipynb` file and run the cells.
+
+Alternatively, open the notebooks in VS Code with the Jupyter extension installed.
 
 ## Purpose
 
